@@ -1,0 +1,8 @@
+[11:52:59] 1 out of 1 file(s) done: C:/Users/Matthew/Downloads/GHCND/Orangeburg_Cleaned.indcal.csv
+
+[11:52:59] Successful in 1/1 files
+
+[11:52:59] Indices Calculation complete
+
+[11:52:59] Press Quit to exit
+

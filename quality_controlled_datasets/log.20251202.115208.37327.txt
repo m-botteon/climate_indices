@@ -1,0 +1,8 @@
+[11:52:13] 1 out of 1 file(s) done: C:/Users/Matthew/Downloads/GHCND/Yemassee_Cleaned.indcal.csv
+
+[11:52:13] Successful in 1/1 files
+
+[11:52:13] Indices Calculation complete
+
+[11:52:13] Press Quit to exit
+

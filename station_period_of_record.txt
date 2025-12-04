@@ -1,0 +1,8 @@
+Yemassee 1899-2025
+Glennville 1904-2025
+Millen 1891-1998
+Greenwood 1894-2011
+Blackville 1895-2025
+Orangeburg 1919-2025
+
+Base period used for first four stations: 1947-2024, due to missing values in Orangeburg set
