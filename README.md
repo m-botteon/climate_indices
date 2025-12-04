@@ -6,6 +6,7 @@ Directory Structure
 ├───plot_indices.R
 ├───Botteon_Data_analysis.pdf
 ├───station_period_of_record.txt
+├───manual.pdf
 ├───README.md
 ├───indices
 ├───log
@@ -19,6 +20,8 @@ Botteon_Data_analysis.pdf contains the report on the analysis on 4 indices on 4 
 
 station_period_of_record.txt contains the period of record for 6 stations considered for the project.
 
+manual.pdf contains the RClimDex instructions and details each index.
+
 indices contains the calculated indices from the RClimDex package, 27 different indices each for 4 stations.
 
 log contains the log outputs from RClimDex when quality control is performed.
@@ -26,5 +29,6 @@ log contains the log outputs from RClimDex when quality control is performed.
 original_datasets contains the untouched csv files downloaded from Blackboard.
 
 cleaned_datasets contains the station data formatted to year|month|day|prcp|tmax|tmin to fit RClimDex.
+
 
 quality_controlled_datasets contains the RClimDex indcal.csv output from quality control.
